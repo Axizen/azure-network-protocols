@@ -60,7 +60,7 @@ Step 3: While into VM1, download WireShark. Search "WireShark" on google --> cli
 <br />
 
 <p>
-<img src="https://imgur.com/6cvo6nr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.postimg.cc/FHQP8nc6/VM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://imgur.com/vBozpzR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://imgur.com/EJCQRcw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
@@ -70,7 +70,7 @@ Step 4: Go to VM2 on Azure Portal --> "overview" --> copy the "private IP addres
 <br />
 
 <p>
-<img src="https://imgur.com/5xWsHFk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.postimg.cc/4yktyjJk/VM2networksecurity.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://imgur.com/AgVXdZo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
